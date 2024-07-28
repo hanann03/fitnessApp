@@ -1,7 +1,6 @@
 package com.example.fitnessapp2;
 
 public class Home {
-
         public String id;
         public int image;
 
