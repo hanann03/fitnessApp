@@ -1,4 +1,4 @@
-package com.example.fitnessapp2;
+package com.example.fitnessapp2.model;
 
 
 //Root[] root = om.readValue(myJsonString, Root[].class); */
