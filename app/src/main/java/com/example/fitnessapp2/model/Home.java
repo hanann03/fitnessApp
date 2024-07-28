@@ -1,4 +1,4 @@
-package com.example.fitnessapp2;
+package com.example.fitnessapp2.model;
 
 public class Home {
 
